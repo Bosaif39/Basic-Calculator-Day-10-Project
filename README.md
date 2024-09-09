@@ -1,10 +1,10 @@
-### **Basic Calculator**
+# **Basic Calculator**
 
-**Overview:**
+## **Overview:**
 
 This is the Day 10 project from the 100 Days of Code: The Complete Python Pro Bootcamp. This simple calculator program performs basic arithmetic operations including addition, subtraction, division, and multiplication. Users can continue calculations using the result of the previous operation.
 
-**How It Works:**
+## **How It Works:**
 
 1. **Function Definitions:**
    - **Addition (`add`)**: Returns the sum of two numbers.
@@ -22,11 +22,11 @@ This is the Day 10 project from the 100 Days of Code: The Complete Python Pro Bo
    - The program allows users to perform multiple calculations by using the result of the previous operation as the first number in the next calculation.
    - Users can exit the calculator by choosing not to continue.
 
-**Example:**
+## **Example:**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_10.png?raw=true)
 
-**Requirements:**
+## **Requirements:**
 
 - Python 3.x
 
