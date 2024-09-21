@@ -24,6 +24,7 @@ This is the Day 10 project from the 100 Days of Code: The Complete Python Pro Bo
 
 ## **Example:**
 
+
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_10.png?raw=true)
 
 ## **Requirements:**
